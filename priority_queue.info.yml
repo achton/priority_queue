@@ -1,5 +1,5 @@
-name: priority_queue
+name: Priority Queue
 type: module
-description: Provides a priority queue implementation.
+description: 'Provides a PriorityQueue class that can be used to process higher priority items before lower priority items.'
+package: Queues
 core: 8.x
-package: Custom
